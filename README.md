@@ -4,7 +4,7 @@ A modern, responsive web application for booking healthcare appointments with In
 
 ## 🚀 Live Demo
 
-The application is deployed and accessible at: []
+The application is deployed and accessible at: [https://easyhealthbooking.vercel.app/](https://easyhealthbooking.vercel.app/)
 
 ## 📋 Features
 
